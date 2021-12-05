@@ -1,6 +1,8 @@
-### Hi there, I'm Dorin 👋
-
-I'm a MES MOM & Automation Software Developer working mainly in the .NET ecosystem.
+### Hi there, I'm Dorin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![](https://visitor-badge.glitch.me/badge?page_id=Iliescu-Dorin.Iliescu-Dorin)
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4782j9xibrh8tbxqk7yu26uyjqiw2hvumgivzor7a9&rid=giphy.gif&ct=g" width="408" height="318" />
+ 
+ I'm a MES MOM & Automation Software Developer working mainly in the .NET ecosystem.
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -11,5 +13,26 @@ I'm a MES MOM & Automation Software Developer working mainly in the .NET ecosyst
 ![Dart](https://img.shields.io/badge/Dart-3498DB?style=for-the-badge&logo=Dart&logoColor=white)
 
 ## Where to find me
+* Site (WIP)
+* Research Paper (WIP)
+* Resume (Working on a better version :D )
 * [LinkedIn](https://www.linkedin.com/in/dorin-iliescu/)
 * [Email](mailto:iliescu.dorin@gmail.com)
+
+
+
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iliescu-Dorin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliescu-Dorin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>

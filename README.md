@@ -52,9 +52,16 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 05 December 2021 - To: 18 November 2022
+
+Total Time: 20 hrs 21 mins
+
+C#            14 hrs 38 mins  >>>>>>>>>>>>>>>>>>-------   71.90 %
+Other         4 hrs 53 mins   >>>>>>-------------------   24.02 %
 ```
+
 <!--END_SECTION:waka-->
 
 

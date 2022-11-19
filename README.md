@@ -1,24 +1,53 @@
-### Hi there, I'm Dorin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-![](https://visitor-badge.glitch.me/badge?page_id=Iliescu-Dorin.Iliescu-Dorin)
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4782j9xibrh8tbxqk7yu26uyjqiw2hvumgivzor7a9&rid=giphy.gif&ct=g" width="408" height="318" />
+<div align="center">
  
- I'm a MES MOM & Automation Software Developer working mainly in the .NET ecosystem.
+### Hi there, I'm Dorin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+![](https://visitor-badge.glitch.me/badge?page_id=Iliescu-Dorin.Iliescu-Dorin)
+</div>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3498DB?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3498DB?style=for-the-badge&logo=Dart&logoColor=white)
 
-## Where to find me
+ <table border="0">
+ <tr>
+    <td style="text-align:left;vertical-align:top;padding:0"><b  style="font-size:30px"> I'm a .NET Software Engineer worinking mainly on Azure ecosystem.</b>
+ 
+- Enterprised RD&L Project (>2yrs):    
+  - Feature management and implementation for a MOM platform based on ASP.NET MVC
+  - Combined SSIS and .NET Console application (C# and Entity Framework) approach
+  - Complex business logic transformations involving a large number of object types
+  - Maintenance and performance optimization
+  - Communication with stakeholders and end customers
+  - Integration of new employees in the company
+  - Involvement in the internship program 
+  </td>
+    <td align= "center"><a href="https://app.daily.dev/starrux"><img src="https://api.daily.dev/devcards/a308e78d5dfc45b29323eba35f152f32.png?r=qpa" width="400" alt="Iliescu Mihail Dorin's Dev Card"/></a></td>
+ </tr>
+ <tr>
+    <td>
+     
 * [Site](https://iliescu-dorin.github.io/projects/)
 * Research Paper (WIP)
 * Resume (Working on a better version :D )
 * [LinkedIn](https://www.linkedin.com/in/dorin-iliescu/)
 * [Email](mailto:iliescu.dorin@gmail.com)
+</td>
+    <td align= "center">
+     
+ <a href=""> ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) </a>
+ <a href=""> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) </a>
+ <a href=""> ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) </a>
+ <a href=""> ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </a>
+ <a href=""> ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) </a>
+ <a href=""> ![Flutter](https://img.shields.io/badge/Flutter-3498DB?style=for-the-badge&logo=Flutter&logoColor=white) </a>
+ <a href=""> ![Dart](https://img.shields.io/badge/Dart-3498DB?style=for-the-badge&logo=Dart&logoColor=white) </a>
+ </td>
+ </tr>
+</table>
 
+📊 **Certifications**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 
 

@@ -42,12 +42,11 @@
  </tr>
 </table>
 
-📊 **Certifications**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+📜 **Certifications**
+
+<a href="" > 
+ <img align="center" src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="drawing" width="200"/>
+</a>
 
 
 

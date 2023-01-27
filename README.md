@@ -54,13 +54,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2021 - To: 24 January 2023
+From: 05 December 2021 - To: 25 January 2023
 
-Total Time: 109 hrs 54 mins
+Total Time: 110 hrs 22 mins
 
-TypeScript    39 hrs 51 mins  >>>>>>>>>----------------   36.27 %
-C#            20 hrs 47 mins  >>>>>--------------------   18.91 %
-Other         20 hrs 29 mins  >>>>>--------------------   18.65 %
+TypeScript    39 hrs 51 mins  >>>>>>>>>----------------   36.11 %
+Other         20 hrs 57 mins  >>>>>--------------------   18.99 %
 ```
 
 <!--END_SECTION:waka-->

@@ -54,12 +54,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2021 - To: 02 February 2023
+From: 05 December 2021 - To: 03 February 2023
 
-Total Time: 110 hrs 50 mins
+Total Time: 110 hrs 54 mins
 
-TypeScript    39 hrs 51 mins  >>>>>>>>>----------------   35.96 %
-Other         21 hrs 25 mins  >>>>>--------------------   19.33 %
+TypeScript    39 hrs 51 mins  >>>>>>>>>----------------   35.94 %
+Other         21 hrs 29 mins  >>>>>--------------------   19.37 %
 ```
 
 <!--END_SECTION:waka-->

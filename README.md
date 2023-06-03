@@ -53,8 +53,8 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
-From: 05 December 2021 - To: 31 May 2023
+```txt
+From: 05 December 2021 - To: 01 June 2023
 
 Total Time: 116 hrs 1 min
 

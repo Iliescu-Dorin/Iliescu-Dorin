@@ -23,7 +23,7 @@
  <tr>
     <td>
      
-* [Site](https://iliescu-dorin.github.io/projects/)
+* [Site](https://bento.me/dorin-iliescu)
 * Research Paper (WIP)
 * Resume (Working on a better version :D )
 * [LinkedIn](https://www.linkedin.com/in/dorin-iliescu/)
